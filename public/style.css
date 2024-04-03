@@ -1,0 +1,36 @@
+#datosMatriz1{
+    background-color: chocolate;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+#datosMatriz2{
+    background-color: chocolate;
+    margin-left: 10px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.columna {
+    margin-top: 5px;
+}
+#cajaDatos{
+    display: flex;
+}
+#cajaDatos input {
+    width: 200px;
+    margin-left: 3px;
+}
+#primerBoton{
+    margin-left: 5px;
+}
+#inputNumber{
+    width: 40px;
+    margin: 2px;
+}
+#botonMultiplicar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
